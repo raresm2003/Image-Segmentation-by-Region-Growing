@@ -1,0 +1,289 @@
+﻿  stdafx.cpp
+  colorcode.cpp
+  common.cpp
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\colorcode.cpp(57,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/colorcode.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\colorcode.cpp(58,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/colorcode.cpp')
+  
+  Functions.cpp
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(11,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/Functions.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(334,18): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  (compiling source file '/Functions.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(335,18): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  (compiling source file '/Functions.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(336,18): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  (compiling source file '/Functions.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(413,22): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(413,22): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(413,22): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(413,22): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(413,22): warning C4244:         ]
+  (compiling source file '/Functions.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(413,18): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(413,18): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(413,18): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(413,18): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(413,18): warning C4244:         ]
+  (compiling source file '/Functions.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(427,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Functions.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\Functions.cpp(428,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Functions.cpp')
+  
+  OpenCVApplication.cpp
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(700,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(711,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(799,22): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(799,22): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(799,22): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(799,22): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(799,22): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(799,18): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(799,18): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(799,18): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(799,18): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(799,18): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(813,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(814,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(824,29): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(824,29): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(824,29): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(824,29): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(824,29): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(825,40): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(825,40): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(825,40): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(825,40): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(825,40): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(826,29): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(826,29): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(826,29): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(826,29): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(826,29): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(827,40): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(827,40): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(827,40): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(827,40): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(827,40): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1239,62): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1239,62): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1239,62): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1239,62): warning C4244:             _Tp=uchar
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1239,62): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1450,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1451,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1494,28): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1494,28): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1494,28): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1494,28): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1494,28): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1496,27): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1496,27): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1496,27): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1496,27): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1496,27): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1507,28): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1507,28): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1507,28): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1507,28): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1507,28): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1509,27): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1509,27): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1509,27): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1509,27): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1509,27): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1520,29): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1520,29): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1520,29): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1520,29): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1520,29): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1522,27): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1522,27): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1522,27): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1522,27): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1522,27): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1794,42): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1794,42): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1794,42): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1794,42): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1794,42): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1794,32): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1794,32): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1794,32): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1794,32): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1794,32): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1795,42): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1795,42): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1795,42): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1795,42): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1795,42): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1795,32): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1795,32): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1795,32): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1795,32): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1795,32): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1833,98): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1833,98): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1833,98): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1833,98): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1833,98): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1833,90): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1833,90): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1833,90): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1833,90): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1833,90): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1834,114): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1834,114): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1834,114): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1834,114): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1834,114): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1834,92): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1834,92): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1834,92): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1834,92): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1834,92): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1835,114): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1835,114): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1835,114): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1835,114): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1835,114): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1835,92): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1835,92): warning C4244:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1835,92): warning C4244:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1835,92): warning C4244:             _Tp=int
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1835,92): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1865,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1866,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1895,28): warning C4305: 'argument': truncation from 'double' to '_Ty'
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1895,28): warning C4305:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1895,28): warning C4305:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1895,28): warning C4305:             _Ty=float
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1895,28): warning C4305:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1910,26): warning C4305: 'argument': truncation from 'double' to '_Ty'
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1910,26): warning C4305:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1910,26): warning C4305:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1910,26): warning C4305:             _Ty=float
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1910,26): warning C4305:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1922,26): warning C4305: 'argument': truncation from 'double' to '_Ty'
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1922,26): warning C4305:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1922,26): warning C4305:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1922,26): warning C4305:             _Ty=float
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1922,26): warning C4305:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1934,26): warning C4305: 'argument': truncation from 'double' to '_Ty'
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1934,26): warning C4305:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1934,26): warning C4305:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1934,26): warning C4305:             _Ty=float
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1934,26): warning C4305:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1944,24): warning C4305: 'argument': truncation from 'double' to '_Ty'
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1944,24): warning C4305:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1944,24): warning C4305:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1944,24): warning C4305:             _Ty=float
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1944,24): warning C4305:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1950,24): warning C4305: 'argument': truncation from 'double' to '_Ty'
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1950,24): warning C4305:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1950,24): warning C4305:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1950,24): warning C4305:             _Ty=float
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1950,24): warning C4305:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1956,24): warning C4305: 'argument': truncation from 'double' to '_Ty'
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1956,24): warning C4305:         with
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1956,24): warning C4305:         [
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1956,24): warning C4305:             _Ty=float
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(1956,24): warning C4305:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(2081,35): warning C4267: '/=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\OpenCVApplication.cpp(2082,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+  Generating Code...
+  OpenCVApplication.vcxproj -> D:\Git Clones\Image-Segmentation-by-Region-Growing\Image-Segmentation-by-Region-Growing\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_videoio_ffmpeg490_64.dll
+  OpenCV\dll\Debug\opencv_videoio_msmf490_64d.dll
+  OpenCV\dll\Debug\opencv_world490d.dll
+          3 file(s) copied.

@@ -1,0 +1,97 @@
+﻿  OpenCVApplication.cpp
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(689,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(700,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(788,22): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(788,18): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(802,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(803,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(813,29): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(814,40): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(815,29): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(816,40): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(1228,62): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(1439,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(1440,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(1483,28): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(1485,27): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(1496,28): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(1498,27): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(1509,29): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(1511,27): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(1783,42): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(1783,32): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(1784,42): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\OpenCVApplication.cpp(1784,32): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  OpenCVApplication.vcxproj -> C:\Users\micle\Desktop\AN IV\SEM 1\IOC\OpenCVApplication-VS2022_OCV490_basic_IOM\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_videoio_ffmpeg490_64.dll
+  OpenCV\dll\Debug\opencv_videoio_msmf490_64d.dll
+  OpenCV\dll\Debug\opencv_world490d.dll
+          3 file(s) copied.
